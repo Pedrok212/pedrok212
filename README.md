@@ -1,7 +1,6 @@
    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
    
   <h1>Olá, aqui quem fala é o Pedrok212!👋</h1> 
-  ##
   
 🔧 Tecnologias que estou cada vez mais desenvolvendo:
 
