@@ -23,8 +23,6 @@
 - Sou um aprendiz contínuo, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 - E estou sempre aberto a contribuições e feedback!
 
-<br>
-
   ##
 
 📫 Caso queira se conectar:
