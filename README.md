@@ -28,6 +28,7 @@ Sou um aprendiz contínuo, sempre buscando aprender novas tecnologias e melhorar
 E estou sempre aberto a contribuições e feedback!
 
 <br>
+
   ##
 
 📫 Caso queira se conectar:
@@ -39,6 +40,7 @@ E estou sempre aberto a contribuições e feedback!
   <a href="https://www.linkedin.com/in/pedro-henrique-04a503224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
   ##
 
 Sinta-se à vontade para explorar meus projetos, abrir uma issue ou contribuir com sugestões. Adoro trocar ideias e aprender com a comunidade!
