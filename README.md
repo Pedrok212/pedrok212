@@ -3,10 +3,8 @@
   <h1>
       Olá, aqui quem fala é o Pedrok212!👋
   </h1>
-
   <br>
   
-
 🔧 Tecnologias que estou cada vez mais desenvolvendo:
 
 <div style="display: inline_block"><br>
