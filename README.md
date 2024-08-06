@@ -17,7 +17,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
 </div>
-
+<br>
   
 
 
@@ -27,7 +27,7 @@ Desenvolvedor Frontend: Com experiência em criar interfaces intuitivas e aprend
 Sou um aprendiz contínuo, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 E estou sempre aberto a contribuições e feedback!
 
-
+<br>
 
 📫 Caso queira se conectar:
 
