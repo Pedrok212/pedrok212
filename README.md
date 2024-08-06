@@ -3,7 +3,8 @@
   <h1>
       Olá, aqui quem fala é o Pedrok212!👋
   </h1>
-  <br>
+  
+  ##
   
 🔧 Tecnologias que estou cada vez mais desenvolvendo:
 
@@ -20,7 +21,6 @@
 <br>
   
   ##
-
 💡 Sobre mim:
 
 Desenvolvedor Frontend: Com experiência em criar interfaces intuitivas e aprendendo APIs robustas.
