@@ -20,7 +20,7 @@
   ##
 💡 Sobre mim:
 
-- Desenvolvedor Java em evolução, construindo soluções eficientes e aprimorando habilidades em programação e integração de APIs.
+- Desenvolvedor em evolução, construindo soluções eficientes e aprimorando habilidades em programação e integração de APIs.
 - Sou um aprendiz contínuo, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 - E estou sempre aberto a contribuições e feedback!
 
