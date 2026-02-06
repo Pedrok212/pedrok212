@@ -11,6 +11,7 @@
   <img align="center" alt="Pedrok-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedrok-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pedrok-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pedrok-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
           
 </div>
@@ -19,7 +20,7 @@
   ##
 💡 Sobre mim:
 
-- Desenvolvedor Frontend: Com experiência em criar interfaces intuitivas e aprendendo APIs robustas.
+- Desenvolvedor Java em evolução, construindo soluções eficientes e aprimorando habilidades em programação e integração de APIs.
 - Sou um aprendiz contínuo, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 - E estou sempre aberto a contribuições e feedback!
 
